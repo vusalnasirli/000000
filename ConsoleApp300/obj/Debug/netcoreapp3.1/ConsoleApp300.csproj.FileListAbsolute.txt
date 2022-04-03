@@ -1,0 +1,14 @@
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\bin\Debug\netcoreapp3.1\ConsoleApp300.exe
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\bin\Debug\netcoreapp3.1\ConsoleApp300.deps.json
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\bin\Debug\netcoreapp3.1\ConsoleApp300.runtimeconfig.json
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\bin\Debug\netcoreapp3.1\ConsoleApp300.runtimeconfig.dev.json
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\bin\Debug\netcoreapp3.1\ConsoleApp300.dll
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\bin\Debug\netcoreapp3.1\ConsoleApp300.pdb
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.csproj.AssemblyReference.cache
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.AssemblyInfoInputs.cache
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.AssemblyInfo.cs
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.csproj.CoreCompileInputs.cache
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.dll
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.pdb
+C:\Users\nesir\source\repos\ConsoleApp300\ConsoleApp300\obj\Debug\netcoreapp3.1\ConsoleApp300.genruntimeconfig.cache
